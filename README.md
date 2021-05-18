@@ -1,1 +1,1 @@
-# CCSD-hyperpolarizabilities
+# CCSD frequency-dependent first hyperpolarizabilities
